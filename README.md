@@ -7,3 +7,4 @@
 4. New scrum master for week 3 Sheila
 5. get access to all members
 6. Repo Made...JUNI
+7. Is this where I(Tenisha) commit?
