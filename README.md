@@ -12,5 +12,5 @@ https://www.kaggle.com/datasets/neelakashchatterjee/covid19-impact-on-airport-tr
 We cleaned the data by removing columns that we didn't need and changed names of some columns. We also ran a linear regression and  t test on the data and did a random forrest model.
 We found more datasets relating to our topic and was able to wrangle some information from it. 
 We used some articles to round out any information we weren't able to get from the datsets.
-We worked to put the presntaiton together and put our findings in layman terms for people to comprehemd
+We worked to put the presentaiton together and put our findings in layman terms for people to comprehemd
 
