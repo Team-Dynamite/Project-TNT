@@ -10,3 +10,5 @@
 ![slide4](https://github.com/Team-Dynamite/Project-TNT/blob/main/slide4.png)
 
 ![slide5](https://github.com/Team-Dynamite/Project-TNT/blob/main/slide5.png)
+
+![infographic](https://github.com/Team-Dynamite/Project-TNT/blob/main/infographic%20pic.png)
