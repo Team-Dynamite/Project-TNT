@@ -13,6 +13,5 @@ In March of 2020 our world came to a standstill in the wake of a pandemic. The w
       -worked in python and tablaeu. completed single sample test, linear progression, testing for outliers, and random forest progression to test theory. 
 5.	#**Data Visualization**
   	  -historgraph, scatterplot, treemap, pairplot, side by side, infographic,
-![Type a description of the picture](https://github.com/Team-Dynamite/Project-TNT/blob/main/image%20(6).png)
-
+![Type a description of the picture](https://github.com/Team-Dynamite/Project-TNT/blob/main/infographic%20pic.png)
 
