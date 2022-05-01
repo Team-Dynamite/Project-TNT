@@ -6,3 +6,5 @@
 ![slide2](https://github.com/Team-Dynamite/Project-TNT/blob/main/slide2.png)
 
 ![slide3](https://github.com/Team-Dynamite/Project-TNT/blob/main/slide3.png)
+
+![slide4](https://github.com/Team-Dynamite/Project-TNT/blob/main/slide4.png)
