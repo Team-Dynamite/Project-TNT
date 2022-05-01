@@ -1,4 +1,5 @@
 # Project-TNT
+https://github.com/Team-Dynamite/Project-TNT/blob/main/image%20(6).png
 <istockphoto-882299346-612x612.jpg>
 https://github.com/Team-Dynamite/Project-TNT/issues/2#issue-1222275712
 Questions: How did covid affect travel in the US? What was/is the economic impact of that effect? How did covid affect people’s mindset/opinion on travel? Are they willing to travel more or less?
